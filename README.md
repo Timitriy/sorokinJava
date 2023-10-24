@@ -1,5 +1,4 @@
 # sorokinJava
-# testingAlgorithms
 
 ## Задание №4
 
